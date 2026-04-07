@@ -2,6 +2,12 @@
 
 A modern, web-based attendance tracking system built with Node.js, Express, and MongoDB Atlas. Features a responsive UI with dark mode support, timezone handling for Sri Lanka, and comprehensive student management.
 
+## 🌐 Live Demo
+
+Access the deployed application here: [https://mpds.work.gd/](https://mpds.work.gd/)
+
+> 🏷️ **Hosted on AWS Lightsail**
+
 ## 🌟 Features
 
 - **Student Management**: Add, edit, and remove students with roll numbers
